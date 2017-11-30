@@ -13,7 +13,7 @@ class Helloworld extends AbstractDb
 
     {
 
-        $this->_init('blog_posts', 'post_id');
+        $this->_init('sample_posts', 'post_id');
 
     }
 
